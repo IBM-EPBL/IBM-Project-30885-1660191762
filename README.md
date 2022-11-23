@@ -9,15 +9,11 @@ Karthikeyan R,
 Krishna Balan V,
 
 Industry Mentor(s) Name
-
 :
-
 Sri Tulasi
 
 Faculty Mentor(s) Name
-
 :
-
 BABU.M
 
 Skills Required:
