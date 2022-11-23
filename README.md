@@ -3,10 +3,10 @@ AI-powered Nutrition Analyzer for Fitness Enthusiasts
 Category: Artificial Intelligence
 
 Team Members:
-Naveen Kumar JS
-Balakrishna Rao G
-Karthikeyan R
-Krishna Balan V
+Naveen Kumar JS,
+Balakrishna Rao G,
+Karthikeyan R,
+Krishna Balan V,
 
 Skills Required:
 Python,CNN,IBM Cloud,IBM Watson,IBM Cloudant DB,Deep Learning,Python-Flask
