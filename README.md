@@ -2,6 +2,12 @@
 AI-powered Nutrition Analyzer for Fitness Enthusiasts
 Category: Artificial Intelligence
 
+Team Members:
+Naveen Kumar JS
+Balakrishna Rao G
+Karthikeyan R
+Krishna Balan V
+
 Skills Required:
 Python,CNN,IBM Cloud,IBM Watson,IBM Cloudant DB,Deep Learning,Python-Flask
 
@@ -23,4 +29,5 @@ Protein, Calories, etc.).
 Technical Architecture:
 
 ![image](https://user-images.githubusercontent.com/113510074/203548847-e9e3540c-5e0e-4178-9fba-af46a4e55918.png)
+
 
