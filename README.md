@@ -20,3 +20,6 @@ capture the images of different fruits and then the image will be sent the train
 The model analyses the image and detect the nutrition based on the fruits like (Sugar, Fibre, 
 Protein, Calories, etc.).
 
+Technical Architecture:
+![image](https://user-images.githubusercontent.com/113510074/203548847-e9e3540c-5e0e-4178-9fba-af46a4e55918.png)
+
