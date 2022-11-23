@@ -50,7 +50,7 @@ Configure ImageDataGenerator class
 
 ApplyImageDataGenerator functionality to Trainset and Testset
 
-Model Building
+Model Building:
 
 Import the model building Libraries
 
