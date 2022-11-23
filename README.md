@@ -38,4 +38,38 @@ Technical Architecture:
 
 ![image](https://user-images.githubusercontent.com/113510074/203548847-e9e3540c-5e0e-4178-9fba-af46a4e55918.png)
 
+To accomplish this, we have to complete all the activities and tasks listed below
 
+Data Collection:
+
+Collect the dataset or Create the dataset Data Preprocessing:
+
+Import the ImageDataGenerator library
+
+Configure ImageDataGenerator class
+
+ApplyImageDataGenerator functionality to Trainset and Testset
+
+Model Building
+
+Import the model building Libraries
+
+Initializing the model
+
+Adding Input Layer
+
+Adding Hidden Layer
+
+Adding Output Layer
+
+Configure the Learning Process
+
+Training and testing the model
+
+Save the Model
+
+Application Building:
+
+Create an HTML file
+
+Build Python Code
