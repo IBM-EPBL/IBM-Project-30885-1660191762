@@ -8,6 +8,18 @@ Balakrishna Rao G,
 Karthikeyan R,
 Krishna Balan V,
 
+Industry Mentor(s) Name
+
+:
+
+Sri Tulasi
+
+Faculty Mentor(s) Name
+
+:
+
+BABU.M
+
 Skills Required:
 Python,CNN,IBM Cloud,IBM Watson,IBM Cloudant DB,Deep Learning,Python-Flask
 
